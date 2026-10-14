@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>formatting</title>
+</head>
+<body>
+ <h1>formatting</h1>  
+ <b>This is bold text</b><br> 
+ <i>This is italic text</i><br>
+ <mark>this is highlighted text</mark><br>
+ <small>this text is small</small><br>
+ <del>this text is deleted</del><br>
+ <h1>this is<sub>this text is subscript</sub>,</h1><br>
+ <h1>super script<sup>this text is super script</sup></h1><br>
+ <strong>this text is strong</strong><br>
+ <em>this text is emphasized</em><br>
+ <q>practice makes a man perfect</q><br>
+ <blockquote>the measure of intelligence is the ability to change</blockquote><br>
+ 
+
+</body>
+</html>
