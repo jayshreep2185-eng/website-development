@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my first code</title>
+</head>
+<body>
+ <h1>my first code</h1>   
+ <h2>This is heading 2</h2>
+ <h3>This is heading 3</h3>
+ <h4>This is heading 4</h4>
+ <h5>This is my heading 5</h5>
+ <h6>This is my heading 6</h6>
+ <p>In html we have 6 headings. And they all are based on their size. With the help of paragrapgh tag we can create pragraphs in a website.</p>
+</body>
+</html>
