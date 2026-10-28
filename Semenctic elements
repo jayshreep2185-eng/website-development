@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kids health guide</title>
+</head>
+<body>
+ <header>
+    <h1>&#10084; KidsCare &#8212; Your health guide</h1>
+    <nav>
+        <a href="#health">Stay Healthy</a>
+        <a href="#tips">Quick Tips</a>
+        <a href="#media">Watch &amp; Learn</a>
+    </nav>
+ </header>   
+ <main>
+    <section id="health">
+        <article>
+            <h2>Why your body needs exercise</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci facilis saepe neque harum officiis rem veniam itaque ipsa molestiae ipsam nisi qui alias quos nihil expedita, accusantium, obcaecati, id recusandae?
+            
+
+            </p>
+        </article>
+        <figure>
+            <img src="Screenshot (1).png" alt="" width="500" height="500">
+            <figcaption>Active kids are healthier and happier everyday!</figcaption>
+        </figure>
+
+    </section>
+    <h2 id="media">&#127909; Watch &amp; Learn</h2>
+    <iframe src="https://www.youtube.com/embed/KrIPt0fi9vk" width="700" height="400" frameborder="0"></iframe>
+ </main>
+ <footer>
+    <p>Copyright &#169; 2026 KidsCare &124; Built by Aarav</p>
+ </footer>
+</body>
+</html>
