@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introduction to CSS</title>
+    <style>
+        *{
+            font-size: larger;
+            background-color: rgb(211, 226, 43);
+            
+        }
+        body{
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+        h2{
+            background-color: rgb(23, 18, 151);
+        }
+        .My-detail{
+             color: aliceblue;
+        }
+    </style>
+</head>
+<body>
+ <h1 style="color: blue;">My color card</h1>  
+ <p style="color: rgb(229, 29, 29);">Hi this is my own web page</p> 
+
+ <h2> About me</h2>
+    <p class="My-detail"> My name is Aarav</p>
+    <p class="My-detail">My favorite color is blue</p>
+    <p class="My-detail">My favorite subject is computer science</p>
+    <p class="My-detail">My favorite food is Chicken</p>
+
+ </div>
+<h2>My favorite things</h2>
+<p>My favorite animal is a cat</p>
+<p>My favorite sport is soccer</p>
+<p>My favorite player right now is Lamine Yamal</p>
+</body>
+</html>
